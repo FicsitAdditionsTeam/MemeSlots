@@ -1,0 +1,16 @@
+FactoryGame/Mods/MemeSlots/AssetRegistry.bin	2023-12-05T01:10:33.848Z
+FactoryGame/Mods/MemeSlots/Content/RootGameWorld_MemeSlots.uasset	2023-12-05T01:10:33.804Z
+FactoryGame/Mods/MemeSlots/Content/RootGameWorld_MemeSlots.uexp	2023-12-05T01:10:33.804Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_1337Slots.uasset	2023-12-05T01:10:33.803Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_1337Slots.uexp	2023-12-05T01:10:33.804Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_420Slots.uasset	2023-12-05T01:10:33.803Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_420Slots.uexp	2023-12-05T01:10:33.803Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_69Slots.uasset	2023-12-05T01:10:33.802Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_69Slots.uexp	2023-12-05T01:10:33.803Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_1337Slots.uasset	2023-12-05T01:10:33.802Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_1337Slots.uexp	2023-12-05T01:10:33.802Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_420Slots.uasset	2023-12-05T01:10:33.797Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_420Slots.uexp	2023-12-05T01:10:33.798Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_69Slots.uasset	2023-12-05T01:10:33.668Z
+FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_69Slots.uexp	2023-12-05T01:10:33.668Z
+FactoryGame/Mods/MemeSlots/Content/Paks/Windows/MemeSlotsFactoryGame-Windows.pak	2023-12-05T01:10:35.419Z

@@ -1,0 +1,76 @@
+{
+	"Files": [
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/RootGameWorld_MemeSlots.uasset",
+			"ChunkId": "dc00371f03da77cb00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_1337Slots.uasset",
+			"ChunkId": "e4824bf4f4c7a81f00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_420Slots.uasset",
+			"ChunkId": "1928869eefe8bcf500000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Schem_69Slots.uasset",
+			"ChunkId": "c7ae12facaf2a93e00000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_1337Slots.uasset",
+			"ChunkId": "0739822abf822bb000000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_420Slots.uasset",
+			"ChunkId": "eaa3746c84a6dd8100000001"
+		},
+		{
+			"Path": "FactoryGame/Mods/MemeSlots/Content/Schematics/Unlock_69Slots.uasset",
+			"ChunkId": "b63f9d807aadf8d300000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/MemeSlots/RootGameWorld_MemeSlots",
+			"ExportBundleChunkIds": [
+				"dc00371f03da77cb00000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Schem_1337Slots",
+			"ExportBundleChunkIds": [
+				"e4824bf4f4c7a81f00000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Schem_420Slots",
+			"ExportBundleChunkIds": [
+				"1928869eefe8bcf500000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Schem_69Slots",
+			"ExportBundleChunkIds": [
+				"c7ae12facaf2a93e00000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Unlock_1337Slots",
+			"ExportBundleChunkIds": [
+				"0739822abf822bb000000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Unlock_420Slots",
+			"ExportBundleChunkIds": [
+				"eaa3746c84a6dd8100000001"
+			]
+		},
+		{
+			"Name": "/MemeSlots/Schematics/Unlock_69Slots",
+			"ExportBundleChunkIds": [
+				"b63f9d807aadf8d300000001"
+			]
+		}
+	]
+}
